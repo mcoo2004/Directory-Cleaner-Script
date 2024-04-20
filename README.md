@@ -45,5 +45,4 @@ Contributions to improve `delc.pl` are welcome. Please follow these steps to con
 5. Push to the branch (`git push origin improve-feature`).
 6. Create a Pull Request.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file in the repository for details.
+
