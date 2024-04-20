@@ -1,7 +1,3 @@
-#Michael Cooper 
-#prog 4
-#390-01
-
 #!/usr/bin/perl -w
 
 use strict;
